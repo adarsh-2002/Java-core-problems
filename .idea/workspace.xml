@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1df51904-ea36-455b-ac8a-1669fa93e310" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Box/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Box/Box3d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Box/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Generics/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ListCollections/ListAppend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ListCollections/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MapCollections/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MapCollections/StudentHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Number/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Number/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TreeSetColl/Sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TreeSetColl/StudentTreeSet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CiQqKMA36KGuBuqcdmLBX0lIC5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/adars/Downloads/virtusa_java_practice",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Generics">
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Generics" />
+      <module name="Java core problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListAppend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListCollections.ListAppend" />
+      <module name="Java core problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListCollections.Student" />
+      <module name="Java core problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapCollections.StudentHashMap" />
+      <module name="Java core problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MapCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeSetColl.StudentTreeSet" />
+      <module name="Java core problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TreeSetColl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Generics" />
+        <item itemvalue="Application.StudentTreeSet" />
+        <item itemvalue="Application.StudentHashMap" />
+        <item itemvalue="Application.ListAppend" />
+        <item itemvalue="Application.Student" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1df51904-ea36-455b-ac8a-1669fa93e310" name="Changes" comment="" />
+      <created>1659283119420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659283119420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
