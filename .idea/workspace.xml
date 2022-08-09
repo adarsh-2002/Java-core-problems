@@ -5,32 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1df51904-ea36-455b-ac8a-1669fa93e310" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Box/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Box/Box3d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Box/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Generics/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ListCollections/ListAppend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ListCollections/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MapCollections/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MapCollections/StudentHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Number/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Number/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shape/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TreeSetColl/Sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TreeSetColl/StudentTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/grades.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/students.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Box/BoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Number/NumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -68,13 +50,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Generics">
-    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Generics" />
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberThread.Driver" />
       <module name="Java core problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="NumberThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListAppend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListCollections.ListAppend" />
+    <configuration name="valSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberThread.valSubsequence" />
       <module name="Java core problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListCollections.*" />
+          <option name="PATTERN" value="NumberThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,52 +77,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListCollections.Student" />
+    <configuration name="BoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java core problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListCollections.*" />
+          <option name="PATTERN" value="Box.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Box" />
+      <option name="MAIN_CLASS_NAME" value="Box.BoxTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapCollections.StudentHashMap" />
+    <configuration name="NumberTest.numTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java core problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MapCollections.*" />
+          <option name="PATTERN" value="Number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Number" />
+      <option name="MAIN_CLASS_NAME" value="Number.NumberTest" />
+      <option name="METHOD_NAME" value="numTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeSetColl.StudentTreeSet" />
+    <configuration name="ShapeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java core problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TreeSetColl.*" />
+          <option name="PATTERN" value="Shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Shape" />
+      <option name="MAIN_CLASS_NAME" value="Shape.ShapeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Generics" />
-        <item itemvalue="Application.StudentTreeSet" />
-        <item itemvalue="Application.StudentHashMap" />
-        <item itemvalue="Application.ListAppend" />
-        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="JUnit.ShapeTest" />
+        <item itemvalue="JUnit.NumberTest.numTest" />
+        <item itemvalue="JUnit.BoxTest" />
+        <item itemvalue="Application.valSubsequence" />
       </list>
     </recent_temporary>
   </component>
